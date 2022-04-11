@@ -6,6 +6,7 @@ I am a full-stack developer, and designer. I'm currently pursuing my Ph.D at a u
 
 As a researcher, I like representation learning, generative modeling, and deep learning. I am also interested in using information-theoretic approaches to improve upon existing deep generative models, and in its application to semi-supervised learning. That's why I like to make things that make a difference.
 
+<img align="right" alt="GIF" src="https://github.com/wudangt/wudangt/blob/main/coding.gif?raw=true" width="408" height="318" />
 <!--
 **wudangt/wudangt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
