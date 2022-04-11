@@ -11,7 +11,7 @@ As a researcher, I like representation learning, generative modeling, and deep l
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/wudangt);
+- 🚀 I’m currently learning Data Structures and Algorithms on leetcode<!--[leetcode]x(https://leetcode.com/wudangt)-->;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on medium<!--[medium](https://XXX.medium.com)-->;
 - 📫 How to reach me: ...
