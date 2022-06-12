@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://github.com/wudangt" target="_blank">@wudangt</a> <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0.001px">-->
+### Hi there, I'm <a href="https://github.com/wudangt" target="_blank">@wudangt</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=2.5% height=2.5%>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=wudangt.wudangt)
 
